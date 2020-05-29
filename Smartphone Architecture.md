@@ -9,6 +9,7 @@ Any basic smartphone comprises 5 basic components/segments in it:
 Let's have a look at each of them indivually,
 
 ***Hardware Architecture***
+
 Every modern smartphone today uses a System on a Chip (SoC) Architecture with the following 3 primary components:
 
 - Application processor executing the user's application software with instructions from the middleware and the operating system (OS)
@@ -20,11 +21,13 @@ Every modern smartphone today uses a System on a Chip (SoC) Architecture with th
 ***Smartphone Communication Design***
 
 _Receiver (RX)_
+
 - The RX hardware (part of the baseband processor) receives incoming signals and generates interrupts for the radio interface in OS (both the radio interface and the OS software run on a baseband or modem processor)
 - After the reception, a physical layer handshake takes place. Then the incoming audio, video and data are processed by the modem processor
 - The radio OS components talk to the peripheral device drivers to give the incoming data to the user through the device (display, speaker etc.)
 
 _Transmission (TX)_
+
 - The device drivers write the data to be transmitted in the memory, from where the radio OS components collect them (For eg. audio from microphone, or image/video from camera, position from GPS)
 - These data are then processed by the modem processor as per the transmission protocol
 - Transmission initiated by the radio interface through transmitted hardware
