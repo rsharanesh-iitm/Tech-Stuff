@@ -34,6 +34,7 @@ _Transmission (TX)_
 - The Subscriber Identifier Module (SIM) plays an important role in reception and transmission
 
 ***User Application execution in a Smartphone***
+
 The application processor executes the user applications and related OS programs
 - Applications such as audio / video codec and players, games, image processing, speech processing, internet browser, text editor, etc
 - Applications which are graphics intensive (the majority) are executed with help from the GPU
@@ -41,6 +42,7 @@ The application processor executes the user applications and related OS programs
 - Mostly a traditional OS (Linux) is used after being stripped down and optimized for smartphone
 
 ***Important Peripheral Devices in a Smartphone***
+
 The peripherals are Input / Output (I/O) devices through which the end-user interacts with the handset. Of course, the OS needs driver software installed for each device. Typical peripheral devices are LCD, touchscreen, keyboard, camera, GPS, speaker, microphone, bluetooth, WiFi, HDTV
 
 ***Processors in Samrtphones***
@@ -52,4 +54,5 @@ The market is ruled by Advances RISC Machines (ARM), a British fabless company w
 The Modem processor is a separate ARM processor or one extended by a DSP (the baseband encoding and decoding involves a lot of number crunching). Some architectures also use a modem accelerator along with the processor core.
 
 ![Basic-processor-ARM](https://www.evelta.com/product_images/uploaded_images/arm1136jf-s-chip-big.jpg)
+
 The above depictedimage is a basic ARM mobile processor.
