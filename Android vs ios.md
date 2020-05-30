@@ -6,22 +6,27 @@ There are two main types of smartphone devices available currently in the market
 
 
 ***Apple's own designed Processors***
+
 Apple has designed System on Chip (SoC) and System in Package (SiP) processors for their mobile consumer devices. They combine a low-power central processing unit (CPU) and other components into a physically compact package to meet the stringent power and space constraints common to mobile devices.
 
 In the earlier stages, Apple first used SoCs in early revisions of the iPhone and iPod touch. These were specified by Apple and manufactured by Samsung, they combine in one package a single ARM-based processing core (CPU), a graphics processing unit (GPU), and other electronics necessary for mobile computing.
 
 ***How are iOs procesors made?***
+
 Apple designs processors that use ARM’s 64-bit instruction architecture. That means that Apple’s chips use the same underlying RISC architecture as Qualcomm, Samsung, Huawei and others. The difference is that Apple holds an architectural license with ARM, which allows it to design its own chips from scratch. Apple’s first in-house 64-bit ARM processor was the Apple A7 which was used in the iPhone 5S. It had a dual-core CPU, clocked at 1.4 GHz and a quad-core PowerVR G6430 GPU.
 
-***Apple outraged all processors all of a sudden***
+***Apple outraged all processors all of a sudden
+
 It is fair to say that Apple caught Qualcomm sleeping when it announced the 64-bit A7 back in 2013. Until that point, Apple and Qualcomm had both been shipping 32-bit ARMv7 processors for use in mobile devices. Qualcomm was leading the field with its 32-bit Snapdragon 800 SoC. It used an in-house Krait 400 core along with the Adreno 330 GPU. Life was good for Qualcomm.
 
 When Apple suddenly announced a 64-bit ARMv8 CP, Qualcomm had nothing. But it didn't much time for qualcomm to design a 64 bit processor. In April 2014, Qualcomm launched the Snapdragon 810 with four Cortex-A57 cores and four Cortex-A53 cores. The “Cortex” range of cores come directly from ARM, the custodians of the ARM architecture. But in that same year, Apple announced the A8, its second generation in-house 64-bit CPU. It wasn’t until March 2015 that Qualcomm was able to announce its first generation in-house 64-bit CPU, the Snapdragon 820, with its custom Kryo CPU core.
 
 ***Apple's own Design for the cores***
+
 Apple made the better design decision - because they can. Most existing ARM implementations are very close in design to ARM’s reference designs. They don’t deviate much in terms of performance, etc. By contrast, Apple has designed their own architecture. Their SoCs accommodate larger and more powerful cores. What people fail to recognize is that most workloads are only optimized for single core performance. As an example, web applications that run on Javascript are only leveraging single core. Some algorithms simply cannot be optimized for multiple cores. However, there are some that can. While there is value in having strong multi-core performance, there are few instances outside of benchmarks where this is made evident.
 
 ***What is different about Apple’s CPU cores?***
+
 _First_, Apple had a head-start over just about everyone when it comes to 64-bit ARM based CPUs. Although ARM itself announced the Cortex-A57 back in October 2012, the proposed timeline was that ARM’s partners would ship the first processors during 2014. But Apple had a 64-bit ARM CPU in devices during 2013. The company has since managed to capitalize on that early lead and has produced a new CPU core design every year.
 
 _Second_, Apple’s SoC efforts are tightly coupled to its handset releases. Designing a high performance mobile CPU is hard. It is hard for Apple; for ARM; for Qualcomm; for everyone. Because it is hard, it takes a long time. The Cortex-A57 was announced in October 2012, but it didn’t appear in a smartphone until April 2014. That is a long lead time. That lead time is changing.
@@ -36,3 +41,13 @@ Before the Cortex-A75, none of ARM’s Cortex processors supported L3 caches. Bu
 
 _Fifth_, and finally, Apple’s plan of making processors with wide pipelines at (initially) lower clock speeds has come to fruition. In very broad terms, SoC makers can either make a CPU core with a narrow pipe, but run that pipe at high clock frequencies; or use a wider pipe, but at lower clock speeds. Like a real world water pipe, you can either pump water at high pressure through a narrower pipe or at lower pressure through a wider pipe. In both cases you can theoretically achieve the same throughput. ARM falls squarely in the narrow pipeline camp, while Apple is in the wider pipeline camp. 
 
+***Conclusion***
+
+To conclude on the discussion I will summarise the important points from the above discussion. One of the main important thing followed by apple was to make the wider pipeline with a lower clock speed and so as to increse the IPC(Instruction per cycle). All others followed the way of increasing the number of cores. But Apple went on increasing t's IPC with lesser number of cores, but parallely increasing the number of threads per core.
+
+To combat the effect of latency, apple introduced large cache memory and so there is a more efficient way of processing. While coming to the battery performance, it follows the "Race to shutdown" methodology wherein the cores are powered on for small time of time, the task is done faster and as soon as the task is done the performance cores are shutdown.
+
+To finish off we won’t see a SoC from Qualcomm, Samsung or Huawei that can beat Apple’s latest SoC, in terms of raw CPU power unless one of the following happens:
+
+- Apple stumbles and produces a “bad” SoC. This means it will lose its lead against the other OEMs.
+- One of the leading chip makers decides to build an expensive CPU with a large surface area and lots of silicon dedicated to things like cache etc.
