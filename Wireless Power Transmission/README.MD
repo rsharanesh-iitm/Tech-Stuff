@@ -141,3 +141,4 @@ With the increase in fast charging options, acceptance among users will also con
 4. https://en.wikipedia.org/wiki/Resonant_inductive_coupling
 5. https://witricity.com/products/why-magnetic-resonance/wireless-smart-cities/
 6. https://www.computerworld.com/article/3235176/wireless-charging-explained-what-is-it-and-how-does-it-work.html
+7. https://en.wikipedia.org/wiki/Qi_(standard)
