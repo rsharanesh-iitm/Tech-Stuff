@@ -23,6 +23,18 @@ To summarize it, when the phone or other portable device is placed on the wirele
 
 * Create safe charging zones almost anywhere. The technology could easily be used to provide safe charging points in public places. As inductive charging is standardized, restaurants and cafés could incorporate charging zones into tabletops and airlines could have charging pads in their armrests.
 
+***Disadvantages***
+
+* Less efficient than wired charging. Current inductive charging systems are not quite as efficient as charging with a cable. This means that, in general, a phone charged on a wireless charging pad will take longer to reach full charge than a phone plugged directly into an electrical socket.
+
+* More expensive – Inductive charging also requires drive electronics and coils in both device and charger, increasing the complexity and cost of manufacturing.
+
+* Inconvenience – When a mobile device is connected to a cable, it can be moved around (though in a limited range) and operated while charging. In most implementations of inductive charging, the mobile device must be left on a pad to charge, and thus can't be moved around or easily operated while charging. With some standards, charging can be maintained at a distance, but only with nothing present between the transmitter and receiver.
+
+* Lack of a universal standard. There is also no wholly standardized inductive charging system, meaning a device capable of being wirelessly charged may not be compatible with the charging pad of another device you own. However, several large electronics manufacturers have started working with a standard called Qi (pronounced "chee"), including LG Electronics, Motorola, Nokia, HTC, Sony, and Samsung, so this will certainly become less of a problem over time.
+
+* There is a risk with foreign metal objects, as with induction stoves, they can become extremely hot when they get into the magnetic field of the charging coil. But “smart” charging stations are already available, that can detect when a foreign object is between the smartphone and the contact surface and stop the charging process.
+
 ### For resonant  cases
 Automated high power inductive charging of electric vehicles allows for more frequent charging events and consequential driving range extension.
 Inductive charging systems can be operated automatically without dependence on people to plug and unplug. This results in higher reliability.
