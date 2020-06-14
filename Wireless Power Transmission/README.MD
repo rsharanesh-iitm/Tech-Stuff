@@ -1,5 +1,5 @@
 # Wireless Charging ---> Wireless Power transmission
-In the recent times, we see a wholelot of smartphones coming up with wireless charging facilities. The first phones/tablets with wireless charging features came around in the year 2010. But it took around 4-5 years for it to gain a bit of popularity. Even today after a decade, this isn't much popular in all the mobile phones. Mostly, it's available in the high-end phones. The reason behind this is it's high cost and low efficiency (performance/cost ratio). 
+In the recent times, we see a wholelot of smartphones coming up with wireless charging facilities. The first phones/tablets with wireless charging features came around in the year 2010. But it took around 4-5 years for it to gain a bit of popularity. Even today after a decade, this isn't much popular in all the mobile phones. Mostly, it's available in the high-end phones. The reason behind this is it's high cost and low efficiency (performance/cost ratio). In this article we will first look on what exactly is wireless charging, it's types and other features of it. Finally we will also have a look at how this principle can be extended further to charging EV's and operating home appliances.
 
 ***But anyways how does this work?***
 
@@ -51,14 +51,13 @@ There is also another type of charging feature that uses, magnetic resonant indu
 
 ![mag res ind cou](https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Wireless_power_-_resonant_inductive_coupling.svg/370px-Wireless_power_-_resonant_inductive_coupling.svg.png)
 
-The other advantages of using such features are
+The features and advantages of it include: 
 * Large power transmission. The amount of power that can be transmitted using this technology is in the ordeer of hndreds of watt. Due to this reason, it's used in charging electic vehicles and other home appliances.
 
 * Orientation issues are combated. In the case of the standard and resonant inductive coupling the alignment of both the source and the reciever coils should be intact or in some predefined way. But using this method there is no need for proper alignment as they are in resonance with each other.
 
 * Distance between the charging pad's surface and the device can be a bit large. This is also other important advantage since there is no need for contact between the two surfaces. Hence this is more ideal for E-Vehicles and home appliances.
 
-Advantages include:
 * Automated high power inductive charging of electric vehicles allows for more frequent charging events and consequential driving range extension.
 
 * Automatic operation of inductive charging solves this problem, allowing the vehicle to theoretically run indefinitely.
@@ -75,6 +74,9 @@ Their idea of implementing the same to all the homes is by using Source resonati
 
 ### Future of wireless charging
 
+The number of devices that can be charged wirelessly is increasing continuously. According to IHS Markit, the market for wireless electricity supply continued to gather momentum in 2018. In 2018, worldwide sales of wireless power receivers and transmitters across all applications and product segments rose to 600 million units – a 37 percent increase compared to the previous year. IHS Markit forecasts that approximately 2.1 billion units will be shipped worldwide by 2023.
+
+With the increase in fast charging options, acceptance among users will also continue to grow. Beginning with smartphones, wireless charging will also be possible for many other devices. Headphones, smartwatches, and fitness trackers, but also medical devices with low power consumption, such as pacemakers, will benefit from this. Depending on the stage of development in the technology, higher charging power may also be possible in the future.
 
 ### References:
 1. https://www.lifewire.com/what-is-inductive-charging-575296
