@@ -80,6 +80,8 @@ WiTricity a company that licensed technology originally developed at the Massach
 
 ***WiTricity uses resonant inductive coupling technology principle for power transfer.***
 
+![witricity](https://witricity.com/wp-content/uploads/2016/11/overview-diagram.png)
+
 Features of Wireless EV's charging:
 * Power transfer as efficient and as fast as conventional plug-in. An efficiency of 90-93 % was recorded.
 
@@ -92,6 +94,8 @@ Features of Wireless EV's charging:
 * Smart and Safe, it includes FOD (Foreign Object Detection), LOD (Live Object Detection) and PD (Position Detection) offer advanced protection and ease of use.
 
 * Bi-Directional Power Transfer (Wireless V2G), Large EV batteries can help utility companies stabilize the grid or even power your home. The same principle but in a reverse manner.
+
+![Witricity EV](https://witricity.com/wp-content/uploads/2019/03/magnetic-resonance-benefits-1024x460.png)
 
 ### Dynamic charging
 Till now, what we have seen are primarily static charging methods. Where the device can't be in motion while charging. Examples include, the Electic vehicle must be in stationary state rather in motion. But there is yet another technology to overcome this issue, that's dynamic charging wherein the charging of the device occurs while it is in motion.
