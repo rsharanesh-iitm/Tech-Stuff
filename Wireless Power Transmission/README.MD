@@ -64,13 +64,14 @@ Inductive charging of electric vehicles at high power levels enables charging of
 
 The following is a best example of a company that serves the need in a wider scale. It basically uses the resonant and magnetic resonant inductive coupling systems
 
-## WiTricity = Wireless + Electricity
-
-The company aims at providing solutions to charging problems in terms of wireless charging facilities. At present, it's only available for Electric vehicles, but it also aims at developing it further for all electrical home appliances that are used.
+### WiTricity = Wireless + Electricity
+WiTricity a Watertown, Mass.-based company that licenses technology originally developed at the Massachusetts Institute of Technology (MIT). The company aims at providing solutions to charging problems in terms of wireless charging facilities. The first commercial application of this technology was seen in the dell latitude laptops that can be charged wirelessly. At present, it's only available for Electric vehicles, but it also aims at developing it further for all electrical home appliances that are used.
 
 ***WiTricity uses resonant inductive coupling technology principle for power transfer.***
 
 Their idea of implementing the same to all the homes is by using Source resonating coils that will be placed in the walls of the home.
+
+### Future of wireless charging
 
 
 ### References:
@@ -78,3 +79,5 @@ Their idea of implementing the same to all the homes is by using Source resonati
 2. https://en.wikipedia.org/wiki/Inductive_charging
 3. https://www.infineon.com/cms/en/discoveries/wireless-inductive-charging/
 4. https://en.wikipedia.org/wiki/Resonant_inductive_coupling
+5. https://witricity.com/products/why-magnetic-resonance/wireless-smart-cities/
+6. https://www.computerworld.com/article/3235176/wireless-charging-explained-what-is-it-and-how-does-it-work.html
