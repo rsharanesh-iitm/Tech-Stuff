@@ -76,11 +76,22 @@ Inductive charging of electric vehicles at high power levels enables charging of
 The following is a best example of a company that serves the need in a wider scale. It basically uses the resonant and magnetic resonant inductive coupling systems
 
 ### WiTricity = Wireless + Electricity
-WiTricity a Watertown, Mass.-based company that licenses technology originally developed at the Massachusetts Institute of Technology (MIT). The company aims at providing solutions to charging problems in terms of wireless charging facilities. The first commercial application of this technology was seen in the dell latitude laptops that can be charged wirelessly. At present, it's only available for Electric vehicles, but it also aims at developing it further for all electrical home appliances that are used.
+WiTricity a company that licensed technology originally developed at the Massachusetts Institute of Technology (MIT). The company aims at providing solutions to charging problems in terms of wireless charging facilities. The first commercial application of this technology was seen in the dell latitude laptops that can be charged wirelessly. At present, it's only available for Electric vehicles, but it also aims at developing it further for all electrical home appliances that are used. Their idea of implementing the same to all the homes is by using Source resonating coils that will be placed in the walls of the home. For charging the EV's they place harging pads underneath the ground and once when car is parked over that space then through magnetic resonance coupling charging takes place.
 
 ***WiTricity uses resonant inductive coupling technology principle for power transfer.***
 
-Their idea of implementing the same to all the homes is by using Source resonating coils that will be placed in the walls of the home.
+Features of Wireless EV's charging:
+* Power transfer as efficient and as fast as conventional plug-in. An efficiency of 90-93 % was recorded.
+
+* One single design for types of cars - spans sports cars, sedans and SUVs. The height between the pad and the battery can be around 10-25 cm and so every EV, regardless of ride height, will be interoperable with a common ground pad.
+
+* Position allowance corrects (or compensates for) parking misalignment. 
+
+* Powers through materials and elements. So, it can be placed in Surface or in-ground placement, terrains make no issues be it Asphalt, cement, snow, ice.
+
+* Smart and Safe, it includes FOD (Foreign Object Detection), LOD (Live Object Detection) and PD (Position Detection) offer advanced protection and ease of use.
+
+* Bi-Directional Power Transfer (Wireless V2G), Large EV batteries can help utility companies stabilize the grid or even power your home. The same principle but in a reverse manner.
 
 ### Dynamic charging
 Till now, what we have seen are primarily static charging methods. Where the device can't be in motion while charging. Examples include, the Electic vehicle must be in stationary state rather in motion. But there is yet another technology to overcome this issue, that's dynamic charging wherein the charging of the device occurs while it is in motion.
