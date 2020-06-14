@@ -35,14 +35,35 @@ To summarize it, when the phone or other portable device is placed on the wirele
 
 * There is a risk with foreign metal objects, as with induction stoves, they can become extremely hot when they get into the magnetic field of the charging coil. But “smart” charging stations are already available, that can detect when a foreign object is between the smartphone and the contact surface and stop the charging process.
 
-### For resonant  cases
-Automated high power inductive charging of electric vehicles allows for more frequent charging events and consequential driving range extension.
-Inductive charging systems can be operated automatically without dependence on people to plug and unplug. This results in higher reliability.
-Automatic operation of inductive charging solves this problem, allowing the vehicle to theoretically run indefinitely.
+### Resonant Inductive Coupling
+
+A major disadvantage of the standard inductive coupling is that it can only be used for low power applications (maximum wattage is around 30W), also there is a disance constraint in the standard inductive coupling. The gap between the device and the pad is very minimal. To overcome this advantages we use the Resonant Inductive coupling, that is an extension of the inductive coupling.
+
+Looking at it's working, resonant inductive coupling is a stronger form of inductive coupling that occur when the secondary inductive coil (on the device) resonates. The below image shows what exactly is the process, there is an additional resonator that is placed in the secondary circuit.
+
+![reso](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Magnetic_phase_synchronus_coupling.svg/370px-Magnetic_phase_synchronus_coupling.svg.png)
+
+***Comparison***
+Non-resonant coupled inductors, such as typical transformers, work on the principle of a primary coil generating a magnetic field and a secondary coil subtending as much as possible of that field so that the power passing through the secondary is as close as possible to that of the primary. This requirement that the field be covered by the secondary results in very short range and usually requires a magnetic core. Over greater distances the non-resonant induction method is highly inefficient and wastes the vast majority of the energy in resistive losses of the primary coil.
+
+###  Magnetic resonant inductive coupling
+There is also another type of charging feature that uses, magnetic resonant inductive coupling which uses resonant coils in the both the ends (i.e) the source end and the reciever end. When the two resonating coils are held in resonance then large amount of power can be transmitted. 
+
+The other advantages of using such features are
+* Large power transmission. The amount of power that can be transmitted using this technology is in the ordeer of hndreds of watt. Due to this reason, it's used in charging electic vehicles and other home appliances.
+
+* Orientation issues are combated. In the case of the standard and resonant inductive coupling the alignment of both the source and the reciever coils should be intact or in some predefined way. But using this method there is no need for proper alignment as they are in resonance with each other.
+
+* Distance between the charging pad's surface and the device can be a bit large. This is also other important advantage since there is no need for contact between the two surfaces. Hence this is more ideal for E-Vehicles and home appliances.
+
+Advantages include:
+* Automated high power inductive charging of electric vehicles allows for more frequent charging events and consequential driving range extension.
+
+* Automatic operation of inductive charging solves this problem, allowing the vehicle to theoretically run indefinitely.
 Inductive charging of electric vehicles at high power levels enables charging of electric vehicles while in motion (also known as dynamic charging).
 
+The following is a best example of a company that serves the need in a wider scale. It basically uses the resonant and magnetic resonant inductive coupling systems
 
-The following is a best example of a company that serves the need in a wider scale.
 ## WiTricity = Wireless + Electricity
 
 The company aims at providing solutions to charging problems in terms of wireless charging facilities. At present, it's only available for Electric vehicles, but it also aims at developing it further for all electrical home appliances that are used.
@@ -56,3 +77,4 @@ Their idea of implementing the same to all the homes is by using Source resonati
 1. https://www.lifewire.com/what-is-inductive-charging-575296
 2. https://en.wikipedia.org/wiki/Inductive_charging
 3. https://www.infineon.com/cms/en/discoveries/wireless-inductive-charging/
+4. https://en.wikipedia.org/wiki/Resonant_inductive_coupling
