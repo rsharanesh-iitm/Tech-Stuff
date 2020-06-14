@@ -82,6 +82,11 @@ WiTricity a Watertown, Mass.-based company that licenses technology originally d
 
 Their idea of implementing the same to all the homes is by using Source resonating coils that will be placed in the walls of the home.
 
+### Dynamic charging
+Till now, what we have seen are primarily static charging methods. Where the device can't be in motion while charging. Examples include, the Electic vehicle must be in stationary state rather in motion. But there is yet another technology to overcome this issue, that's dynamic charging wherein the charging of the device occurs while it is in motion.
+
+Researchers at the Korea Advanced Institute of Science and Technology (KAIST) have developed an electric transport system (called Online Electric Vehicle, OLEV) where the vehicles draw power from cables underneath the surface of the road via non-contact magnetic charging (where a power source is placed underneath the road surface and power is wirelessly picked up on the vehicle itself). As a possible solution to traffic congestion and to improve overall efficiency by minimizing air resistance and so reduce energy consumption, the test vehicles followed the power track in a convoy formation. In July 2009 the researchers successfully supplied up to 60% power to a bus over a gap of 12 centimetres (4.7 in). Commercialization efforts of the technology have not been successful because of high costs.
+
 ### Future of wireless charging
 
 The number of devices that can be charged wirelessly is increasing continuously. According to IHS Markit, the market for wireless electricity supply continued to gather momentum in 2018. In 2018, worldwide sales of wireless power receivers and transmitters across all applications and product segments rose to 600 million units – a 37 percent increase compared to the previous year. IHS Markit forecasts that approximately 2.1 billion units will be shipped worldwide by 2023.
