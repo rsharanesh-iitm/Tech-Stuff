@@ -47,7 +47,9 @@ Looking at it's working, resonant inductive coupling is a stronger form of induc
 Non-resonant coupled inductors, such as typical transformers, work on the principle of a primary coil generating a magnetic field and a secondary coil subtending as much as possible of that field so that the power passing through the secondary is as close as possible to that of the primary. This requirement that the field be covered by the secondary results in very short range and usually requires a magnetic core. Over greater distances the non-resonant induction method is highly inefficient and wastes the vast majority of the energy in resistive losses of the primary coil.
 
 ###  Magnetic resonant inductive coupling
-There is also another type of charging feature that uses, magnetic resonant inductive coupling which uses resonant coils in the both the ends (i.e) the source end and the reciever end. When the two resonating coils are held in resonance then large amount of power can be transmitted. 
+There is also another type of charging feature that uses, magnetic resonant inductive coupling which uses resonant coils in the both the ends (i.e) the source end and the reciever end. When the two resonating coils are held in resonance then large amount of power can be transmitted. The primary resonator increases the primary driving coil current and increases the generated magnetic flux around the primary resonator. This is equivalent to driving the primary coil at high voltage. 
+
+![mag res ind cou](https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Wireless_power_-_resonant_inductive_coupling.svg/370px-Wireless_power_-_resonant_inductive_coupling.svg.png)
 
 The other advantages of using such features are
 * Large power transmission. The amount of power that can be transmitted using this technology is in the ordeer of hndreds of watt. Due to this reason, it's used in charging electic vehicles and other home appliances.
