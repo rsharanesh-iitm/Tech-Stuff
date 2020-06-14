@@ -26,3 +26,4 @@ Their idea of implementing the same to all the homes is by using Source resonati
 ### References:
 1. https://www.lifewire.com/what-is-inductive-charging-575296
 2. https://en.wikipedia.org/wiki/Inductive_charging
+3. https://www.infineon.com/cms/en/discoveries/wireless-inductive-charging/
