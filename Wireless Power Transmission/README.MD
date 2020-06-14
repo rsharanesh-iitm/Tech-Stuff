@@ -66,6 +66,18 @@ There arises a need for a common description of the charger's specification. If 
 |1.2|	2015|	Baseline Power Profile (BPP): 5W Extended Power Profile (EPP): 15 W |Increased maximum transmitter power to 15W, improved thermal tests for transmitters, improved timing specs, improved foreign object detection sensitivity, optional receiver ID (WP-ID).Labeled by Samsung as “Fast Wireless Charging” (initially 10W, introduced on the Galaxy Note 5 and S6 edge plus), August 2015) requires charging plate to be connected to Qualcomm Quick Charge 2.0-enabled 15W USB charger (9 Volt, 1.67 Ampère support).|
 |1.2.3|	2017|	EPP Power Class 0: 5W - 30W|	Added Power Class 0 which allows the consumer to negotiate up to 30W from the charger.|
 
+***Features and Specification***
+
+The WPC published the Qi low-power specification in August 2009. Under the Qi specification, "low power" inductive transfers deliver power below 5 W using inductive coupling between two planar coils. These coils are typically 5 mm apart but can be up to 40 mm and possibly farther apart. The Qi low-power specification has been renamed to the Qi Baseline Power Profile (BPP).
+
+In 2015, WPC introduced the Qi Extended Power Profile (EPP) specification which supports up to 15 W. EPP is also typically used to charge mobile devices like BPP. WPC also introduced Proprietary Power Delivery Extension (PPDE) to allow phone OEMs to deliver higher than Baseline Power Profile's 5W or the Extended Power Profile's 15W. The companies that use proprietary standards are Apple, Google, Hauwei and Samsung.
+
+Regulation of the output voltage is provided by a digital control loop where the power receiver communicates with the power transmitter and requests more or less power. Communication is unidirectional from the power receiver to the power transmitter via backscatter modulation.In backscatter modulation, the power-receiver coil is loaded, changing the current draw at the power transmitter. These current changes are monitored and demodulated into the information required for the two devices to work together.
+
+In 2011, the Wireless Power Consortium began to extend the Qi specification to medium power. As of 2019, the Medium Power standard currently delivers 30 to 65 W, it is expected to eventually support up to 200 W (typically used for portable power tools, robotic vacuum cleaners, drones and e-bikes).
+
+In 2015, the WPC also demonstrated a high-power specification **"Ki"** that will deliver up to 1 kW, allowing the powering of kitchen appliances among other high-power utilities.
+
 ###  Magnetic resonant inductive coupling
 There is also another type of charging feature that uses, magnetic resonant inductive coupling which uses resonant coils in the both the ends (i.e) the source end and the reciever end that are paired up with each other(operate at the same frequency). When the two resonating coils are held in resonance then large amount of power can be transmitted. The primary resonator increases the primary driving coil current and increases the generated magnetic flux around the primary resonator. This is equivalent to driving the primary coil at high voltage. So, this is an alternative for powering large appliances and devices wirelessly without using high voltage in the primary coil (as in the case of typical inductive coupling).
 
