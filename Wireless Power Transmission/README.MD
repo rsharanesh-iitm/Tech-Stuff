@@ -55,6 +55,10 @@ Non-resonant coupled inductors, such as typical transformers, work on the princi
 ### Qi (Wireless Charging Standard)
 Qi is an open interface standard that defines wireless power transfer using inductive charging over distances of up to 4 cm (1.6 inches), developed by the Wireless Power Consortium. The system uses a charging pad and a compatible device, which is placed on top of the pad, charging via resonant inductive coupling. First released in 2008, the Qi standard had by 2019 been incorporated into more than 160 smartphones, tablets and other devices.
 
+*Need for such a standard ?*
+
+There arises a need for a common description of the charger's specification. If every company does has it's wireless charging standard with different specification, then the chargers can be used only for specific devices. In such cases, for each portable device there would multiple chargers with different standards, that wold create troubles in compatiblity. To eradicate this confusion, the Wireless Power Consortium established Qi standard as a common standard for all the devices that has the feature of Wireless charging. Many manufacturers of mobie phones, and other devices are a part of it. The first standard was released in the year 2010, for low powered devices and from then there has been many versions of it coming up. The below table specifies all the versions of the satndard that has been released till date.
+
 |Version number|	Released|	Maximum wattage	|Notes|
 |:---:|:---:|:---:|:---:|
 |1.0	|2010	|5 W	|Power transmitter can be a single coil, coil array, or moving coil.|
