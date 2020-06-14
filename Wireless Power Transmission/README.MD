@@ -13,6 +13,23 @@ To summarize it, when the phone or other portable device is placed on the wirele
 
 ***Advantges***
 
+* Charge several portable devices in the same time. If we have several portable devices, instead of carrying multiple cables for each individual device separately, a single wireless charger can be used to dharge all such devices. There already exists wireless charger that supports multiple devices at the same time.
+
+* Protected connections – No corrosion when the electronics are enclosed, away from water or oxygen in the atmosphere. Less risk of electrical faults such as short circuit due to insulation failure, especially where connections are made or broken frequently.
+
+* Make your phone truly waterproof. Because one induction coil does not need to be in direct contact with the other to allow a charge to pass between them, it could be sealed inside the body of a device and enable it to be made completely waterproof. 
+
+* Durability – Without the need to constantly plug and unplug the device, there is significantly less wear and tear on the socket of the device and the attaching cable.
+
+* Create safe charging zones almost anywhere. The technology could easily be used to provide safe charging points in public places. As inductive charging is standardized, restaurants and cafés could incorporate charging zones into tabletops and airlines could have charging pads in their armrests.
+
+### For resonant  cases
+Automated high power inductive charging of electric vehicles allows for more frequent charging events and consequential driving range extension.
+Inductive charging systems can be operated automatically without dependence on people to plug and unplug. This results in higher reliability.
+Automatic operation of inductive charging solves this problem, allowing the vehicle to theoretically run indefinitely.
+Inductive charging of electric vehicles at high power levels enables charging of electric vehicles while in motion (also known as dynamic charging).
+
+
 The following is a best example of a company that serves the need in a wider scale.
 ## WiTricity = Wireless + Electricity
 
