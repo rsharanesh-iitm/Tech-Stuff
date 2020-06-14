@@ -12,7 +12,23 @@ The traditional print servers available in the market are working similar to the
 This project aims at making a print server using an NodeMCU (ESP8266). 
 
 ***Printing Protocol***
-It's working using the Internet Printing Protocol (IPP). A printing protocol is a protocol for communication between client devices (computers, mobile phones, tablets, etc.) and printers (or print servers). It allows clients to submit one or more print jobs to the printer or print server, and perform tasks such as querying the status of a printer, obtaining the status of print jobs, or cancelling individual print jobs.
+
+This project uses the Internet Printing Protocol (IPP) for it's working. A printing protocol is a protocol for communication between client devices (computers, mobile phones, tablets, etc.) and printers (or print servers). It allows clients to submit one or more print jobs to the printer or print server, and perform tasks such as querying the status of a printer, obtaining the status of print jobs, or cancelling individual print jobs. Like all IP-based protocols, IPP can run locally or over the Internet. Unlike other printing protocols, IPP also supports access control, authentication, and encryption, making it a much more capable and secure printing mechanism than older ones.
+
+IPP is implemented using the Hypertext Transfer Protocol (HTTP) and inherits all of the HTTP streaming and security features. For example, authorization can take place via HTTP's Digest access authentication mechanism, GSSAPI, or any other HTTP authentication method. Encryption is provided using the TLS protocol-layer, either in the traditional always-on mode used by HTTPS or using the HTTP Upgrade extension to HTTP.
+
+*IPP uses the traditional client-server model, with clients sending IPP request messages with the MIME media type "application/ipp" in HTTP POST requests to an IPP printer. IPP request messages consist of key/value pairs using a custom binary encoding followed by an "end of attributes" tag and any document data required for the request (such as the document to be printed). The IPP response is sent back to the client in the HTTP POST response, again using the "application/ipp" MIME media type.*
+
+Among other things, IPP allows a client to:
+
+* query a printer's capabilities (such as supported character sets, media types and document formats)
+* submit print jobs to a printer
+* query the status of a printer
+* query the status of one or more print jobs
+* cancel previously submitted jobs
+
+***IPP uses TCP with port 631 as its well-known port.***
 
 ### References
 1. https://en.wikipedia.org/wiki/Print_server
+2. https://en.wikipedia.org/wiki/Internet_Printing_Protocol
