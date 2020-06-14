@@ -52,6 +52,16 @@ The term that describes the efficiency of resosnant iductive coupling is the cou
 ***Comparison***
 Non-resonant coupled inductors, such as typical transformers, work on the principle of a primary coil generating a magnetic field and a secondary coil subtending as much as possible of that field so that the power passing through the secondary is as close as possible to that of the primary. This requirement that the field be covered by the secondary results in very short range and usually requires a magnetic core. Over greater distances the non-resonant induction method is highly inefficient and wastes the vast majority of the energy in resistive losses of the primary coil.
 
+### Qi (Wireless Charging Standard)
+Qi is an open interface standard that defines wireless power transfer using inductive charging over distances of up to 4 cm (1.6 inches), developed by the Wireless Power Consortium. The system uses a charging pad and a compatible device, which is placed on top of the pad, charging via resonant inductive coupling. First released in 2008, the Qi standard had by 2019 been incorporated into more than 160 smartphones, tablets and other devices.
+
+|Version number|	Released|	Maximum wattage	|Notes|
+|:---:|:---:|:---:|:---:|
+|1.0	|2010	|5 W	|Power transmitter can be a single coil, coil array, or moving coil.|
+|1.1	|2012	|5 W	|12 different transmitter specifications, foreign object detection to prevent heating of metal objects near transmitter, added powering transmitter over USB|
+|1.2|	2015|	Baseline Power Profile (BPP): 5W Extended Power Profile (EPP): 15 W |Increased maximum transmitter power to 15W, improved thermal tests for transmitters, improved timing specs, improved foreign object detection sensitivity, optional receiver ID (WP-ID).Labeled by Samsung as “Fast Wireless Charging” (initially 10W, introduced on the Galaxy Note 5 and S6 edge plus), August 2015) requires charging plate to be connected to Qualcomm Quick Charge 2.0-enabled 15W USB charger (9 Volt, 1.67 Ampère support).|
+|1.2.3|	2017|	EPP Power Class 0: 5W - 30W|	Added Power Class 0 which allows the consumer to negotiate up to 30W from the charger.|
+
 ###  Magnetic resonant inductive coupling
 There is also another type of charging feature that uses, magnetic resonant inductive coupling which uses resonant coils in the both the ends (i.e) the source end and the reciever end that are paired up with each other(operate at the same frequency). When the two resonating coils are held in resonance then large amount of power can be transmitted. The primary resonator increases the primary driving coil current and increases the generated magnetic flux around the primary resonator. This is equivalent to driving the primary coil at high voltage. So, this is an alternative for powering large appliances and devices wirelessly without using high voltage in the primary coil (as in the case of typical inductive coupling).
 
