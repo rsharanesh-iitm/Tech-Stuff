@@ -21,10 +21,10 @@ Clock speed is another number that’s highly advertised with CPUs — the “gi
 This processor is specifically designed for rendering graphics that are output on a monitor. Desktop computers often have a video card that contains the GPU, while mobile devices usually contain a graphics chip that is integrated into the motherboard. By using separate processors for system and graphics processing, computers are able to handle graphic-intensive applications more efficiently.
 
 ***Basic elements of a CPU***
-1. _Arithmetic logic unit (ALU)_, which carries out arithmetic and logic operationson the operands in instructions. 
-2. _Floating point unit (FPU)_, also known as a math coprocessor or numeric coprocessor, a specialized coprocessorthat manipulates numbers more quickly than the basic microprocessor circuitry can. It mostly concentrates on the mathematical computation involving floating point numbers.
+1. _Arithmetic logic unit (ALU)_, which carries out arithmetic and logic operations on the operands in instructions. 
+2. _Floating point unit (FPU)_, also known as a math coprocessor or numeric coprocessor, a specialized coprocessor that manipulates numbers more quickly than the basic microprocessor circuitry can. It mostly concentrates on the mathematical computation involving floating point numbers.
 3. _Registers_, which hold instructions and other data. Registers supply operands to the ALU and store the results of operations.
-4. _L1 and L2 cache memory_, their inclusion in the CPU saves time compared to having to get data from random access memory (RAM).(Level 1 caching is also referred to as L1 cache, primary cache, internal cache, or system cache. With computer processors, L1 cache is cache built into the processor that is the fastest and most expensive cache in the computer. The L1 cache stores the most critical files that need to be executed and is the first thing the processor looks when performing an instruction. On the other hand Level 2 cache or the L2 cache is located very close to the CPu but not exactly within the CPU.)
+4. _L1 and L2 cache memory_, their inclusion in the CPU saves time compared to having to get data from random access memory (RAM).(Level 1 caching is also referred to as L1 cache, primary cache, internal cache, or system cache. With computer processors, L1 cache is cache built into the processor that is the fastest and most expensive cache in the computer. The L1 cache stores the most critical files that need to be executed and is the first thing the processor looks when performing an instruction. On the other hand Level 2 cache or the L2 cache is located very close to the CPU but not exactly within the CPU, they perform some secondary tasks.)
 
 ***Functions performed by the CPU***
 The four primary functions of a processor are fetch, decode, execute and write back.
@@ -35,7 +35,7 @@ The four primary functions of a processor are fetch, decode, execute and write b
 
 
 ***Types***
-Most processors today are multi-core, which means that the IC contains two or more processors for enhanced performance, reduced power consumption and more efficient simultaneous processing of multiple tasks (see: parallel processing). Multi-core set-ups are similar to having multiple, separate processors installed in the same computer, but because the processors are actually plugged into the same socket, the connection between them is faster. 
+Most processors today are multi-core, which means that the IC contains two or more processors for enhanced performance, reduced power consumption and more efficient simultaneous processing of multiple tasks (parallel processing). Multi-core set-ups are similar to having multiple, separate processors installed in the same computer, but because the processors are actually plugged into the same socket, the connection between them is faster. 
 
 Most computers may have up to two-four cores; however, this number can increase up to 12 cores, for example. If a CPU can only process a single set of instructions at one time, then it is considered as a single-core processor. If a CPU can process two sets of instructions at a time it is called a dual-core processor; four sets would be considered a quad-core processor. The more cores, the more instructions at a time a computer can handle.
 
