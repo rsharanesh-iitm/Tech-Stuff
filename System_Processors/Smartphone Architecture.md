@@ -45,7 +45,7 @@ The application processor executes the user applications and related OS programs
 
 The peripherals are Input / Output (I/O) devices through which the end-user interacts with the handset. Of course, the OS needs driver software installed for each device. Typical peripheral devices are LCD, touchscreen, keyboard, camera, GPS, speaker, microphone, bluetooth, WiFi, HDTV
 
-***Processors in Samrtphones***
+***Processors in Smartphones***
 
 The processors used in a smartphone are quite different from those used in a PC or laptop because they have different design constraints. The trick is to balance power consumption against performance. This is the primary design trade-off. Using an Intel Core i7 will drain the battery in a few minutes flat while using something like an 8-bit microprocessor will not pack enough power to run your browser and YouTube.
 
