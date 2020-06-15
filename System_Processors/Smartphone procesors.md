@@ -5,6 +5,7 @@ The phone processor mainly depends on the framework. The power consumption depen
 At present, the Apple A13, the Huawei Kirin 990, the Qualcomm Snapdragon 865,  and the Samsung Exynos 9820 belong to the best smartphone processors. These five top processors are built on the currently most advancing 7nm manufacturing process and have good control on power consumption.
 
 Now, let's have a look at all the various factors that must be taken into account before deciding on the processor:
+
 ***Brand of the Processor:***
 
 You might not find this to be very important, but trust me, it is. There are many brands that are producing processors these days however, not every brand offers the best. Therefore, it is important to know what you want, and which processor can provide you that with. Few of the big names in the chipset industry are MediaTek, Snapdragon, Exynos, Kirin etc. Earlier, brands like Snapdragon has an unbeaten monopoly over the market, however all of that changed with the inception of MediaTek.
