@@ -9,11 +9,11 @@ There are two main types of smartphone devices available currently in the market
 
 Apple has designed System on Chip (SoC) and System in Package (SiP) processors for their mobile consumer devices. They combine a low-power central processing unit (CPU) and other components into a physically compact package to meet the stringent power and space constraints common to mobile devices.
 
-In the earlier stages, Apple first used SoCs in early revisions of the iPhone and iPod touch. These were specified by Apple and manufactured by Samsung, they combine in one package a single ARM-based processing core (CPU), a graphics processing unit (GPU), and other electronics necessary for mobile computing.
+In the initial stages, Apple first used SoCs in the early revisions of the iPhone and iPod touch. These SoC's were specified by Apple and manufactured by Samsung, they combine in one package a single ARM-based processing core (CPU), a graphics processing unit (GPU), and other electronics necessary for mobile computing.
 
 ***How are iOs procesors made?***
 
-Apple designs processors that use ARM’s 64-bit instruction architecture. That means that Apple’s chips use the same underlying RISC architecture as Qualcomm, Samsung, Huawei and others. The difference is that Apple holds an architectural license with ARM, which allows it to design its own chips from scratch. Apple’s first in-house 64-bit ARM processor was the Apple A7 which was used in the iPhone 5S. It had a dual-core CPU, clocked at 1.4 GHz and a quad-core PowerVR G6430 GPU.
+Apple designs processors uses ARM’s 64-bit instruction architecture. That means that Apple’s chips use the same underlying RISC architecture as Qualcomm, Samsung, Huawei and others. The difference is that Apple holds an architectural license with ARM, which allows it to design its own chips from scratch. Apple’s first in-house 64-bit ARM processor was the Apple A7 which was used in the iPhone 5S. It had a dual-core CPU, clocked at 1.4 GHz and a quad-core PowerVR G6430 GPU.
 
 ***Apple outraged all processors all of a sudden
 
@@ -43,7 +43,7 @@ _Fifth_, and finally, Apple’s plan of making processors with wide pipelines at
 
 ***Conclusion***
 
-To conclude on the discussion I will summarise the important points from the above discussion. One of the main important thing followed by apple was to make the wider pipeline with a lower clock speed and so as to increse the IPC(Instruction per cycle). All others followed the way of increasing the number of cores. But Apple went on increasing t's IPC with lesser number of cores, but parallely increasing the number of threads per core.
+To conclude on the discussion I will summarise the important points from the above discussion. One of the main important thing followed by apple was to make the wider pipeline with a lower clock speed and so as to increse the IPC(Instruction per cycle). All others followed the way of increasing the number of cores. But Apple went on increasing it's IPC with lesser number of cores, but parallely increasing the number of threads per core.
 
 To combat the effect of latency, apple introduced large cache memory and so there is a more efficient way of processing. While coming to the battery performance, it follows the "Race to shutdown" methodology wherein the cores are powered on for small time of time, the task is done faster and as soon as the task is done the performance cores are shutdown.
 
