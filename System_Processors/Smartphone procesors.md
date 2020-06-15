@@ -1,5 +1,6 @@
 ## Smartphone processors
 ***Introduction***
+
 The phone processor mainly depends on the framework. The power consumption depends on the process that the smartphone processor is built on. Performance to a large extent depends on the CPU’s main frequency and core number. Image performance (game performance) depends on the GPU. Besides, the network mode depends on the baseband. In a word, the processor is the most important and one of the most expensive hardware for a phone.
 
 At present, the Apple A13, the Huawei Kirin 990, the Qualcomm Snapdragon 865,  and the Samsung Exynos 9820 belong to the best smartphone processors. These five top processors are built on the currently most advancing 7nm manufacturing process and have good control on power consumption.
