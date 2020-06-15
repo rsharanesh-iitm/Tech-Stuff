@@ -15,7 +15,7 @@ In the initial stages, Apple first used SoCs in the early revisions of the iPhon
 
 Apple designs processors uses ARM’s 64-bit instruction architecture. That means that Apple’s chips use the same underlying RISC architecture as Qualcomm, Samsung, Huawei and others. The difference is that Apple holds an architectural license with ARM, which allows it to design its own chips from scratch. Apple’s first in-house 64-bit ARM processor was the Apple A7 which was used in the iPhone 5S. It had a dual-core CPU, clocked at 1.4 GHz and a quad-core PowerVR G6430 GPU.
 
-***Apple outraged all processors all of a sudden
+***Apple outraged all processors all of a sudden***
 
 It is fair to say that Apple caught Qualcomm sleeping when it announced the 64-bit A7 back in 2013. Until that point, Apple and Qualcomm had both been shipping 32-bit ARMv7 processors for use in mobile devices. Qualcomm was leading the field with its 32-bit Snapdragon 800 SoC. It used an in-house Krait 400 core along with the Adreno 330 GPU. Life was good for Qualcomm.
 
