@@ -1,6 +1,6 @@
 ## Abstract for Blog
 
-### Title -- Smart Phone Architectures and a their Comparison
+### Title -- Smart Phone Architectures and their Comparison
 
 ### Table of Contents (Pararaphs in the blog)
 * Introduction- covers a brief overview on smartphone and their simple working
