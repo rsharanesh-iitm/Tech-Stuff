@@ -9,7 +9,7 @@
 * Android vs iOS Procssors - A comparitive study in terms of all aspects of a mobile phone processors.
 
 ### Introduction
-This section will cover the overview on what are smartphones and their working. It covers up the brief on their applications and uses. It will also include the overview of the feaures of asmartphone.
+This section will cover the overview on what are smartphones and their working. It covers up the brief on their applications and uses. It will also include the overview of the feaures of a smartphone.
 
 ### Processors
 In this section, we will be discussing about the processors that are the heart of any electronic gadget. It will include the working of the processors, their functionalities and their stucture, flowhart and the components it's made of. Also, we will be covering the major differences between a mobile phone processor and a computer processor.
